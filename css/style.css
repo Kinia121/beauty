@@ -489,6 +489,8 @@ button {
 .buy_bt li.active a {
     background-color: #f5ddb6;
     color: #fff;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .price_text {
@@ -583,7 +585,7 @@ button {
     float: left;
     font-size: 16px;
     color: #ffffff;
-    background-color: #363636;
+    background-color: #f109e6;
     text-align: center;
     padding: 10px 0px;
     border-radius: 5px;
